@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TabAuthApp</string>
+    <string name="title_activity_mode">Mode Screen</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn">Login</string>
+    <string name="exit_prompt">Press back again to exit</string>
+    <string name="set_mode">Set Mode</string>
+    <string name="mode_light">Light</string>
+    <string name="mode_night">Night</string>
+    <string name="mode_system">System</string>
+    <string name="tab_first">First</string>
+    <string name="tab_second">Second</string>
+    <string name="tab_third">Third</string>
+</resources>
